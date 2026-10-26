@@ -1,6 +1,1 @@
-Repositorio GitHub de CatGamerRock
-
-Pega aquí la URL real de tu repositorio remoto de GitHub antes de entregar.
-Ejemplo de formato: https://github.com/tu-usuario/CatGamerRock
-
-Importante: la dirección del ejemplo no es un repositorio real; reemplázala por la URL que hayas creado.
+https://github.com/augustokeel227-hub/CatGamerRock
